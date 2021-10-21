@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Opencv remote heart rate measurement](Backend_HRv)
 
-- 💬 Ask me about **PYTHON, DJSNGO AND VUEJS**
+- 💬 Ask me about **PYTHON, DANGO AND VUEJS**
 
 - 📫 How to reach me **djsmanoj0000@gmail.com**
 
