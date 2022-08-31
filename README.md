@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/djsmanojprince" target="blank"><img src="https://img.shields.io/twitter/follow/djsmanojprince?logo=twitter&style=for-the-badge" alt="djsmanojprince" /></a> </p>
 
-- 🔭 I’m currently working on [Opencv remote heart rate measurement](Backend_HRv)
+- 🔭 I’m currently working as a Data Engineer in EXPELO GROUP COMPANY.
 
-- 💬 Ask me about **PYTHON, DJANGO AND VUEJS**
+- 💬 Ask me about **PYTHON, PY-SPARK, DJANGO and VUEJS**
 
 - 📫 How to reach me **djsmanoj0000@gmail.com**
 
