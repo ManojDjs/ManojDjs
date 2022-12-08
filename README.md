@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jaya Deep satya Manoj Doddi</h1>
+<h1 align="center">Hi 👋, I'm Manoj DJS</h1>
 <h3 align="center">A passionate python developer and worked with Vue.js as well</h3>
 <h2 align="center">My Portfolio: https://manojdjs.github.io/Manoj_CV/#/ </h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manojdjs&label=Profile%20views&color=0e75b6&style=flat" alt="manojdjs" /> </p>
