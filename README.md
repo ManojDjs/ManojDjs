@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manoj DJS</h1>
 <h3 align="center">A passionate python developer and worked with Vue.js as well</h3>
-<h2 align="center">My Portfolio: (https://boisterous-gelato-2b6f16.netlify.app/#/) </h2>
+<h2 align="center">My Portfolio: https://manojdjs-cv.netlify.app/#/ </h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manojdjs&label=Profile%20views&color=0e75b6&style=flat" alt="manojdjs" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manojdjs" alt="manojdjs" /></a> </p>
