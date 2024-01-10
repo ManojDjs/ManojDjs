@@ -1,3 +1,4 @@
+<img align="left" src="https://images.app.goo.gl/wLmEpQfqMV2t2cSX6">
 <h1 align="center">Hi 👋, I'm Manoj DJS</h1>
 <h3 align="center">A passionate python developer and worked with Vue.js as well</h3>
 <h2 align="center">My Portfolio: https://manojdjs-cv.netlify.app/#/ </h2>
