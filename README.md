@@ -1,4 +1,5 @@
 <img align="left" src="https://gifdb.com/images/high/lofi-rooftop-study-night-chill-lqcvkej9ymld5zbv.gif">
+<br/>
 <h1 align="center">Hi 👋, I'm Manoj DJS</h1>
 <h3 align="center">A passionate python developer and worked with Vue.js as well</h3>
 <h2 align="center">My Portfolio: https://manojdjs-cv.netlify.app/#/ </h2>
