@@ -2,15 +2,11 @@
 
 **[Portfolio](https://manojdjs-cv.netlify.app/)** · **[GitHub Pages](https://manojdjs.github.io/my_portfolio/)** · **[LinkedIn](https://www.linkedin.com/in/jaya-deep-satya-manoj-doddi-8b5064118/)** · **[Get in touch](mailto:djsmanoj0000@gmail.com)**
 
-<img src="assets/manoj-profile.webp" alt="Manoj DJS" align="right" width="144" />
-
 ### Building reliable services and intelligent applications.
 
 I’m **Manoj DJS**, a Technical Lead working across **software engineering, AI engineering and data engineering**, based in **Derby, United Kingdom**.
 
 I build **FastAPI and Python services with test-driven development**, develop **AI agents with LangGraph and MLflow**, and connect them to **Azure and Databricks** data platforms. My experience includes data engineering and predictive maintenance for jet engines at **Expleo Group, working for Rolls-Royce**.
-
-<br clear="both" />
 
 ## What I’m working on
 
