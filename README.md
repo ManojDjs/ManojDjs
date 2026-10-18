@@ -1,37 +1,51 @@
-<img align="left" src="https://gifdb.com/images/high/lofi-rooftop-study-night-chill-lqcvkej9ymld5zbv.gif">
-<br/>
-<h1 align="center">Hi 👋, I'm Manoj DJS</h1>
-<h3 align="center">A passionate python developer and worked with Vue.js as well</h3>
-<h2 align="center">My Portfolio: https://manojdjs-cv.netlify.app/#/ </h2>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manojdjs&label=Profile%20views&color=0e75b6&style=flat" alt="manojdjs" /> </p>
+![Manoj DJS — Technical Lead in Software, AI & Data Engineering](assets/engineering-banner.svg)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manojdjs" alt="manojdjs" /></a> </p>
+**[Portfolio](https://manojdjs-cv.netlify.app/)** · **[GitHub Pages](https://manojdjs.github.io/my_portfolio/)** · **[LinkedIn](https://www.linkedin.com/in/jaya-deep-satya-manoj-doddi-8b5064118/)** · **[Get in touch](mailto:djsmanoj0000@gmail.com)**
 
-<p align="left"> <a href="https://twitter.com/djsmanojprince" target="blank"><img src="https://img.shields.io/twitter/follow/djsmanojprince?logo=twitter&style=for-the-badge" alt="djsmanojprince" /></a> </p>
+<img src="assets/manoj-profile.webp" alt="Manoj DJS" align="right" width="144" />
 
-- 🔭 I’m currently working as a Data Engineer in EXPELO GROUP COMPANY.
+### Building reliable services and intelligent applications.
 
-- 💬 Ask me about **PYTHON, PY-SPARK, DJANGO and VUEJS**
+I’m **Manoj DJS**, a Technical Lead working across **software engineering, AI engineering and data engineering**, based in **Derby, United Kingdom**.
 
-- 📫 How to reach me **djsmanoj0000@gmail.com**
+I build **FastAPI and Python services with test-driven development**, develop **AI agents with LangGraph and MLflow**, and connect them to **Azure and Databricks** data platforms. My experience includes data engineering and predictive maintenance for jet engines at **Expleo Group, working for Rolls-Royce**.
 
-- ⚡ Fun fact **I think I'm an introvert and loves programming**
+<br clear="both" />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/djsmanojprince" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="djsmanojprince" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jaya deep satya manoj doddi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jaya deep satya manoj doddi" height="30" width="40" /></a>
-<a href="https://fb.com/djsmanoj dud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="djsmanoj dud" height="30" width="40" /></a>
-<a href="https://instagram.com/djsmanoj_1996" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="djsmanoj_1996" height="30" width="40" /></a>
-<a href="https://medium.com/manoj djs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="manoj djs" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/djsmanoj0000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="djsmanoj0000" height="30" width="40" /></a>
-</p>
+## What I’m working on
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuepress.vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/AliasIO/wappalyzer/master/src/drivers/webextension/images/icons/VuePress.svg" alt="vuepress" width="40" height="40"/> </a> </p>
+An **agentic AI web application**, bringing APIs, agents and data engineering together:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manojdjs&show_icons=true&locale=en&layout=compact" alt="manojdjs" /></p>
+- **FastAPI & Python:** backend services, application integrations and REST APIs.
+- **Test-driven development:** PyTest, unit and integration tests, and iterative refactoring.
+- **LangGraph & MLflow:** agent workflows, evaluation and the AI application lifecycle.
+- **Azure & Databricks:** AI workloads, retrieval-augmented generation and data pipelines, delivered with Docker, Kubernetes and Azure DevOps.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manojdjs&show_icons=true&locale=en" alt="manojdjs" /></p>
+## Engineering toolkit
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manojdjs&" alt="manojdjs" /></p>
+| Focus | Tools & practices |
+| --- | --- |
+| **Software engineering** | FastAPI · Python · REST APIs · Django REST Framework · Flask · TDD · PyTest |
+| **Agentic & generative AI** | LangGraph · MLflow · LangChain · RAG · Embeddings · Vector Search · Model Serving · Evaluation |
+| **Data engineering** | PySpark · Apache Spark · SQL · Pandas · Azure Databricks · Data Factory · Data Lake · Synapse |
+| **Cloud & delivery** | Azure · Docker · Kubernetes · AKS · Azure DevOps · CI/CD · Git · Linux |
+
+## Selected projects
+
+| Project | What it explores |
+| --- | --- |
+| [**FastAPI End-to-End**](https://github.com/ManojDjs/fastapi_e2e) | API architecture and testing with Docker, Celery, Redis and SQL. |
+| [**FastAPI Docker Boilerplate**](https://github.com/ManojDjs/fast_api_docker_boilerplate) | A Python API foundation packaged with Docker. |
+| [**Engineering Portfolio**](https://github.com/ManojDjs/my_portfolio) | Experience, selected work, certifications and recommendations from colleagues and clients. |
+
+## Qualifications
+
+- **Microsoft Certified: Azure AI Cloud Developer Associate (AI-200)**
+- **Databricks Certified Generative AI Engineer Associate**
+- **Master’s degree in Advanced Computer Science** — Northumbria University
+
+Explore my [full experience, education and certifications](https://manojdjs-cv.netlify.app/#experience), or read [what colleagues say about my work](https://manojdjs-cv.netlify.app/#recommendations).
+
+---
+
+**Let’s talk software, agents and data.** [Portfolio](https://manojdjs-cv.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/jaya-deep-satya-manoj-doddi-8b5064118/) · [Email](mailto:djsmanoj0000@gmail.com)
